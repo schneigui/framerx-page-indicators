@@ -8,7 +8,7 @@ A page component with built-in pagers indicators.
 * Indicator bgcolor
 * all default controls for Page stock component
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/schneigui/framerx-page-indicators/blob/master/preview.jpg?raw=true)
 
 
 ### [Framer X Beta ONLY]
