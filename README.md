@@ -1,7 +1,7 @@
 # Page Indicators Component
 A page component with built-in pagers indicators.
 #### Controls Available
-* Indicators Container dimentions & position
+* Indicators Container dimensions & position
 * Indicator width
 * Indicator height
 * Indicator borderRadius
